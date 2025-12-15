@@ -1,0 +1,45 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Dataset and Images
+recycling_dataset/
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+
+# Model weights and outputs
+models/
+*.pth
+*.pkl
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+.cache/
+tmp/

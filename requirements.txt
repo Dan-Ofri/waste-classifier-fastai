@@ -1,0 +1,9 @@
+fastai>=2.7.0
+torch>=2.0.0
+torchvision>=0.15.0
+duckduckgo-search>=3.0.0
+icrawler>=0.6.0
+ipywidgets>=8.0.0
+jupyter>=1.0.0
+matplotlib>=3.5.0
+pillow>=9.0.0
