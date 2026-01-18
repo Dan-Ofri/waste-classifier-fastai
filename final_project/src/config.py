@@ -48,6 +48,9 @@ NUM_EPOCHS = 25  # הורדנו ל-25 כדי לחסוך זמן (היה 50)
 # Weight Decay (L2 Regularization)
 WEIGHT_DECAY = 1e-4  # 0.0001
 
+# DataLoader workers (עובדי טעינה מקבילית)
+NUM_WORKERS = 2  # כמה threads לטעינת נתונים (0 = main thread בלבד)
+
 # Early Stopping
 PATIENCE = 5  # כמה epochs לחכות ללא שיפור לפני עצירה
 
